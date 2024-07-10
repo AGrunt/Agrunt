@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-## My Summary  
+## Summary
 I am a Technology professional with a background in building and supporting information systems infrastructure. Recently completed a Master of Computer Science degree majoring in "Software Engineering" and "Machine Learning and Big Data" at University of Wollongong. Currently seeking a full-time role in software engineering, data engineering, or system administration.  
 
-## My Professional Skills  
+## Core Competencies
 * Data engineering 
 * Software engineering  
 * Data analytics  
 * Systems administration, service monitoring and troubleshooting  
 
-## My Technologies
+## Technical Skills and Technologies
 * R, Python, Flask, Airflow, Pandas, NumPy, TensorFlow Recommenders, Scikit-learn, PyTorch, Keras, 
 OpenCV, Jupyter Notebook, Anaconda, matplotlib, seaborn, BeautifulSoup, Selenium, Slash  
 * JavaScript, HTML, CSS, PHP
