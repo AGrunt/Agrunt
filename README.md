@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-## Summary
 I am a Technology professional with a background in building and supporting information systems infrastructure. Recently completed a Master of Computer Science degree majoring in "Software Engineering" and "Machine Learning and Big Data" at University of Wollongong. Currently seeking a full-time role in software engineering, data engineering, or system administration.  
 
 ## Core Competencies
